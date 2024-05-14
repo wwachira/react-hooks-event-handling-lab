@@ -1,3 +1,4 @@
+//two event handlers: onFocus,onBlur
 function EyesOnMe() {
     return (
       <button
@@ -8,4 +9,4 @@ function EyesOnMe() {
       </button>
     );
   }
-  export default EyesOnMe;
+  export default EyesOnMe; 

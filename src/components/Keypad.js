@@ -1,5 +1,4 @@
-// Code Keypad Component Here
-
+//onChange event handler triggered by input for obscurity
 function Keypad (){
     return (
       <div>
